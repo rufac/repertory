@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://repertory.epizy.com/logo.svg" width="400" alt="RuFac Logo"></a></p>
+<p align="center"><a href="https://repertory.epizy.com" target="_blank"><img src="https://repertory.epizy.com/logo.svg" width="400" alt="RuFac Logo"></a></p>
 
 
 ## About RuFac
